@@ -1,4 +1,4 @@
-Esse exercicio de ordenação utilizando SelectionSort. Foi usando como base o livro 
+Esse algoritmo de ordenação utilizando SelectionSort. Foi usando como base o livro :
 
 
 
